@@ -1,7 +1,26 @@
 ### 学习工具
 1. 了解github
-2. `linux / linux 基础命令`
-3. `git / git 基础命令`
+	
+	https://github.com/
+
+2. virtualbox的安装
+	
+3. `linux / linux 基础命令`
+
+	参考文档：
+	
+	鸟哥私房菜：http://vbird.dic.ksu.edu.tw/
+	
+	shell脚本学习指南：<a href="#">传送门</a>
+	
+	
+4. `git / git 基础命令`
+	
+	参考文档：
+	
+	http://www.bootcss.com/p/git-guide/
+	
+	http://git.oschina.net/oschina/git-osc/wikis/Home	
 
 ### html技术
 1. html基本表情
