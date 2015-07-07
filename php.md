@@ -11,7 +11,7 @@
 	
 	鸟哥私房菜：http://vbird.dic.ksu.edu.tw/
 	
-	shell脚本学习指南：<a href="#">传送门</a>
+	shell脚本学习指南：<a href="https://github.com/ycltpe/a/blob/master/Shell%E8%84%9A%E6%9C%AC%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.pdf">传送门</a>
 	
 	
 4. `git / git 基础命令`
